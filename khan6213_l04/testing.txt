@@ -1,0 +1,26 @@
+/**
+ * -------------------------------------
+ * @file  testing.txt
+ * Lab 4 Test Results File
+ * -------------------------------------
+ *	@author Ayaan Khan, 169062130, Khan6213@mylaurier.ca
+ *
+ * @version 2026-02-04
+ *
+ * -------------------------------------
+ */
+------------------------
+read_strings
+
+count: 3
+------------------------
+Contents of source:
+
+A short line
+A longer line
+A really long line that never seems to end and goes on and on
+
+------------------------
+Test strings_with_substring
+
+Enter substring: 
