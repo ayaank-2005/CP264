@@ -1,0 +1,44 @@
+/**
+ * -------------------------------------
+ * @file  testing.txt
+ * Lab 5 Test Results File
+ * -------------------------------------
+ * -------------------------------------
+ * @author Ayaan Khan, 169062130, khan6213@mylaurier,.ca
+ *
+ * @version 2025-09-01
+ *
+ * -------------------------------------
+ */
+ 
+ Reading names from file:
+Fan, Hongbing: appended to set
+Ali, Heider: appended to set
+Gao, Shaun: appended to set
+Brown, David: appended to set
+Singh, Sukhjit: appended to set
+Zima, Eugene: appended to set
+Qushtom, Haytham: appended to set
+Ma, Xuyang: appended to set
+
+Names count: 8
+
+Names in set:
+Fan, Hongbing
+Ali, Heider
+Gao, Shaun
+Brown, David
+Singh, Sukhjit
+Zima, Eugene
+Qushtom, Haytham
+Ma, Xuyang
+
+Is most recent name in source?
+Ma, Xuyang: is in source
+
+Attempt to re-append most recent name:
+Ma, Xuyang: already in set
+
+Freed 9 nodes
+set header: 0x0
+
